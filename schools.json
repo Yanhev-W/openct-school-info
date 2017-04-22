@@ -1033,5 +1033,11 @@
     "name": "闽江学院",
     "cmsURL": "http://211.80.208.93/",
     "cmsSys": "zfsoft"
+  },
+  {
+    "name": "武汉理工大学",
+    "cmsURL": "http://202.114.90.170/",
+    "cmsSys": "custom",
+    "libURL": "http://lib.whut.edu.cn/"
   }
 ]
